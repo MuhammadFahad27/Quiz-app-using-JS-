@@ -30,5 +30,7 @@ Objects: JavaScript objects are used to store each question and its associated o
 Arrays: Arrays hold the list of questions and answers. These arrays are iterated over using loops to dynamically generate quiz content.
 Logic: Core logic is implemented to track user selections, calculate scores, and navigate through the quiz questions.
 ![Start of quiz ](https://github.com/MuhammadFahad27/Quiz-app-using-JS-/raw/main/Quiz%20App/images/Capture.PNG)
+![Questions in app](https://github.com/MuhammadFahad27/Quiz-app-using-JS-/raw/main/Quiz%20App/images/pic2.PNG)
+
 
 
